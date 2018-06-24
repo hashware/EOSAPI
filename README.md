@@ -74,3 +74,4 @@ https://eos.saltblock.io
 
 https://bp.geos.one
 
+https://eos-rpc.tc.ink
