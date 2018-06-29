@@ -7,7 +7,7 @@ EOS Mainnet API URLs
 
 可以使用的api_endpoint & ssl_endpoint
 
-HowTo get available EOS api_endpoint & ssl_endpoint?
+# HowTo get available EOS api_endpoint & ssl_endpoint?
 
 1. cleos -u https://api.eosnewyork.io system listproducers  
 get BPs urls
