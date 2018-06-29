@@ -1,11 +1,9 @@
 # EOSAPI
 EOS Mainnet API URLs
 
-# 主网ID
+# Mainnet chain_id
 
 ## aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906
-
-可以使用的api_endpoint & ssl_endpoint
 
 # HowTo get available EOS api_endpoint & ssl_endpoint?
 
@@ -214,7 +212,7 @@ https://fn001.eossv.org:444
 
 ---
 
-搜集自  
+From  
 https://docs.google.com/spreadsheets/d/1HLAIZ242dc0R8IcHnTRjVur4-wguQ6AjRxzXia-2esU  
 
 ---
