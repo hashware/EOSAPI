@@ -113,7 +113,7 @@ curl https://bp.eosnewyork.io/bp.json
   ]
 }
 ```
-## 3. get p2p_endpoint and ssl_endpoint URL
+## 3. get api_endpoint and ssl_endpoint URL
 http://api.eosnewyork.io  
 https://api.eosnewyork.io
 
